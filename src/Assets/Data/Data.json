@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Jeff Bezos",
+      "imageUrl":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg/330px-Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg",
+      "desc":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minima dicta amet, molestiae aliquam incidunt suscipit recusandae labore ratione doloremque, architecto et illo minus quo tenetur ducimus, voluptatibus repellendus fuga aperiam vel ab! Ipsam corrupti blanditiis dolorum! Officia assumenda rem nam, eveniet enim ad inventore laudantium est illum voluptatem quis.,"
+    },
+    {
+      "name": "Richard Branson",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP-GxeVL2sKJLRWn90KbkkBVQQ12xm_k7rC9tlwWWKOIFVGXlv",
+      "desc":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio beatae incidunt perferendis soluta facilis voluptas dicta repudiandae quasi asperiores libero, exercitationem molestiae autem sapiente dolore nulla non consequatur. Eaque, dolores.,"
+    },
+    {
+      "name": "Jack Ma",
+      "imageUrl":" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg/330px-Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi a voluptatum quidem nulla quisquam natus velit provident earum esse, odio numquam labore recusandae similique sunt."
+    },
+    {
+      "name": "Elan Musk",
+      "imageUrl":" https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+      "desc":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore vel quo deserunt quos expedita minima incidunt sed tempora, a architecto consectetur reprehenderit, in repellat voluptatum.,"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT0TxcBW8h4nl9vEBFI7nNsP6uJpognh6XSKqEJ4Hp6fKhqctnht_rbyPvEeoAFTIofGJc5sEufkiX0WNI",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus eius aut unde, dolores accusantium!"
+    },
+    {
+      "name":" Oprah Winfrey",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8hj_cnA3k-DfIbb_LxkV7-WakFtavtw_PFmnpC_6NnDKqk7Vm",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius ut necessitatibus, repudiandae qui dolor minima.,"
+    }
+  ]

@@ -5,8 +5,8 @@ import QuotsScreen from "./screen/QuotsScreen";
 function App() {
   return (
     <div className="App">
-   {/* <HomeScreen /> */}
-   <QuotsScreen />
+    <HomeScreen />
+   {/* <QuotsScreen /> */}
     </div>
   );
 }
